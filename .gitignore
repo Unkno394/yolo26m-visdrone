@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+runs/
+data/
+datasets/
+*.zip
+weights/epoch*.pt
+weights/last.pt
+weights/*.pt
